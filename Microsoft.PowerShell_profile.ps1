@@ -17,7 +17,7 @@ New-Alias subl "C:\Program Files\Sublime Text 3\subl.exe"
 New-Alias colortool "C:\Users\Brandon\Documents\WindowsPowerShell\ColorTool.exe"
 
 ### Edit PowerShell profile with Sublime
-Function editPowerShellProfile {
+function editPowerShellProfile {
     subl $profile
 }
 New-alias edal editPowerShellProfile
