@@ -1,1 +1,1 @@
-# Brandon's custom PowerShell Profile
+# Brandon's custom PowerShell profile

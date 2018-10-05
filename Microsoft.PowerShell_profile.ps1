@@ -15,6 +15,7 @@ New-Alias conda "C:\Users\Brandon\Anaconda3\Scripts\conda.exe"
 New-Alias pip "C:\Users\Brandon\Anaconda3\Scripts\pip.exe"
 New-Alias subl "C:\Program Files\Sublime Text 3\subl.exe"
 New-Alias colortool "C:\Users\Brandon\Documents\WindowsPowerShell\ColorTool.exe"
+New-Alias everything "C:\Program Files (x86)\Everything\Everything.exe"
 
 ### Edit PowerShell profile with Sublime
 function editPowerShellProfile {
